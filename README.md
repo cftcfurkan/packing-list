@@ -6,32 +6,32 @@
 
 Travel Packing App is a React application designed to simplify travel preparations. It provides an intuitive interface for managing packing lists, including features like rendering a list of items, a dynamic form for adding items, and handling form submissions.
 
-### Installation
+## Installation
 
 To set up the app, follow these steps:
 
 1. Clone this repository to your local machine:
 
 bash
-Copy code
-git clone [https://github.com/your-username/travel-packing-app.git](https://github.com/cftcfurkan/packing-list.git)
+### Copy code
+**git clone [https://github.com/your-username/travel-packing-app.git](https://github.com/cftcfurkan/packing-list.git)**
+
 Navigate to the project directory:
-
 bash
+### Copy code
+**cd packing-list**
+
+## Install the required dependencies:
+
 Copy code
-cd packing-list
+**npm install**
 
-### Install the required dependencies:
-
-Copy code
-npm install
-
-### Usage
+## Usage
 
 To start the application, run the following command:
 
 Copy code
-npm start
+***npm start***
 
 
 ### This will launch the app in your default web browser. You can now:
