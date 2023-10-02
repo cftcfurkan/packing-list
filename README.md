@@ -13,12 +13,12 @@ To set up the app, follow these steps:
 1. Clone this repository to your local machine:
 
 bash
-### Copy code
+## Copy code
 **git clone [https://github.com/your-username/travel-packing-app.git](https://github.com/cftcfurkan/packing-list.git)**
 
 Navigate to the project directory:
 bash
-### Copy code
+## Copy code
 **cd packing-list**
 
 ## Install the required dependencies:
@@ -34,11 +34,11 @@ Copy code
 ***npm start***
 
 
-### This will launch the app in your default web browser. You can now:
+## This will launch the app in your default web browser. You can now:
 
 View and interact with a list of travel items.
 Use the form to add new items to your packing list.
 Submit the form to update the list.
 The application is built using React and utilizes React hooks for state management, making it a modern and efficient tool for managing your travel preparations.
 
-### Happy packing and safe travels!
+## Happy packing and safe travels!
